@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <!-- Document metadata -->
+    <metadata>
+        <title>Document Title</title>
+        <creator>Author Name</creator>
+        <date>2025-01-15</date>
+    </metadata>
+
+    <!-- Main content -->
+    <content>
+        <section>
+            <title>Section Title</title>
+            <paragraph>This is some content.</paragraph>
+        </section>
+    </content>
+</document>
